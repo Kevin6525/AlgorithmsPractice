@@ -1,5 +1,5 @@
 # AlgorithmsPractice
-These are my personal attempts at various algorithm problems. Most problems will be from LeetCode, but some will be from HackerRank and other similar websites. Most solutions will be done in C++, but will also have some done in Java/Python as well.
+These are my personal attempts at various algorithm problems. Most problems will be from LeetCode, but some will be from HackerRank and other similar websites. Most solutions will be done in C++, but will also have some done in Java/Python as well. Under each solution, I will be explaining my code and thought process.
 
 ## LeetCode
 |      LeetCode Links       |      Personal solutions      |
