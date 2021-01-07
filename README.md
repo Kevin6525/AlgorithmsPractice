@@ -50,3 +50,4 @@ These are my personal attempts at various algorithm problems. Most problems will
 |      HackerRank Links       |      Personal solutions      |
 | -------------  |  -------------   |
 [HackerRank Hurdle Challenge](https://www.hackerrank.com/challenges/the-hurdle-race/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=7-day-campaign) | [Personal Solution (CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/HackerRankHurdle.cpp)
+[HackerRank Deigner PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=7-day-campaign&h_r=next-challenge&h_v=zen) | [Personal Solution (CPP)](https://github.com/Kevin6525/AlgorithmsPractice/blob/main/HackerRank%20Designer%20PDF%20Viewer.cpp)
