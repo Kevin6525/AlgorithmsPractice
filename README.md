@@ -1,5 +1,7 @@
 # AlgorithmsPractice
 These are my personal attempts at various algorithm problems. Most problems will be from LeetCode, but some will be from HackerRank and other similar websites. Most solutions will be done in C++, but will also have some done in Java/Python as well.
+
+#LeetCode
 |      LeetCode Links       |      Personal solutions      |
 | -------------  |  -------------   |
 | [#283 Move Zeroes (E)](https://leetcode.com/problems/move-zeroes/)|[Personal Solution(CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%23283%20Move%20Zeroes.cpp)|
@@ -43,4 +45,8 @@ These are my personal attempts at various algorithm problems. Most problems will
 | [#5 Longest Palindromic Substring (M)](https://leetcode.com/problems/longest-palindromic-substring/submissions/) |   [Personal Solution (CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%235%20Longest%20Palindromic%20Substring.cpp)   |
 | [#7 Reverse Integer (E)](https://leetcode.com/problems/reverse-integer/) |   [Personal Solution (CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%237%20Reverse%20Integer.cpp)   |
 | [#94 Binary Tree Inorder Traversal (M)](https://leetcode.com/problems/binary-tree-inorder-traversal/) |   [Personal Solution (CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%2394%20Binary%20Tree%20Inorder%20Traversal.cpp)   |
+
+#HackerRank
+|      HackerRank Links       |      Personal solutions      |
+| -------------  |  -------------   |
 [HackerRank Hurdle Challenge](https://www.hackerrank.com/challenges/the-hurdle-race/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=7-day-campaign) | [Personal Solution (CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/HackerRankHurdle.cpp)
