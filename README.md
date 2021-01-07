@@ -1,5 +1,5 @@
-# LeetcodePractice
-These are my personal attempts at leetcode problems, most solutions will be in C++, but will add some in Java/Python as well. Intended to be a marker for personal growth as I continue to learn more about algorithms. Not all problems will be from leetcode, some will come from Hackerrank or other similar websites.
+# AlgorithmsPractice
+These are my personal attempts at various algorithm problems. Most problems will be from LeetCode, but some will be from HackerRank and other similar websites. Most solutions will be done in C++, but will also have some done in Java/Python as well.
 |      LeetCode Links       |      Personal solutions      |
 | -------------  |  -------------   |
 | [#283 Move Zeroes (E)](https://leetcode.com/problems/move-zeroes/)|[Personal Solution(CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%23283%20Move%20Zeroes.cpp)|
