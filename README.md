@@ -4,10 +4,10 @@ These are my personal attempts at various algorithm problems. Most problems will
 ## LeetCode
 |      LeetCode Links       |      Personal solutions      |
 | -------------  |  -------------   |
-| [#283 Move Zeroes (E)](https://leetcode.com/problems/move-zeroes/)|[Personal Solution(CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%23283%20Move%20Zeroes.cpp)|
-| [#169 Majority Element (E)](https://leetcode.com/problems/majority-element/) |[Personal Solution(CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%23169%20Majority%20Element.cpp)|
-| [#412 FizzBuzz (E)](https://leetcode.com/problems/fizz-buzz/) |   [Personal Solution(CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%23412%20FizzBuzz.cpp)   |
-| [#237 Delete Node in a Linked List (E)](https://leetcode.com/problems/delete-node-in-a-linked-list/) |   [Personal Solution(CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%23237%20Delete%20Node%20in%20a%20Linked%20List.cpp)   |
+| [#283 Move Zeroes (E)](https://leetcode.com/problems/move-zeroes/)|[Personal Solution (CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%23283%20Move%20Zeroes.cpp)|
+| [#169 Majority Element (E)](https://leetcode.com/problems/majority-element/) |[Personal Solution (CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%23169%20Majority%20Element.cpp)|
+| [#412 FizzBuzz (E)](https://leetcode.com/problems/fizz-buzz/) |   [Personal Solution (CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%23412%20FizzBuzz.cpp)   |
+| [#237 Delete Node in a Linked List (E)](https://leetcode.com/problems/delete-node-in-a-linked-list/) |   [Personal Solution (CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%23237%20Delete%20Node%20in%20a%20Linked%20List.cpp)   |
 | [#378 Kth Smallest Element in a Sorted Matrix (M)](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |   [Personal Solution (CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%23378%20Kth%20Smallest%20Element%20in%20Sorted%20Matrix.cpp) |
 | [#1436 Destination City (E)](https://leetcode.com/problems/destination-city/) |   [Personal Solution (CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%231436%20Destination%20City.cpp)   |
 | [#131 Palindrome Partitioning (M)](https://leetcode.com/problems/palindrome-partitioning/) |   [Personal Solution (CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%23131%20Palindrome%20Partitioning.cpp)   |
