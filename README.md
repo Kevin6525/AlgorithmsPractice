@@ -1,5 +1,5 @@
 # LeetcodePractice
-These are my personal attempts at leetcode problems, most solutions will be in C++, but will add some in Java/Python as well. Intended to be a marker for personal growth as I continue to learn more about algorithms.
+These are my personal attempts at leetcode problems, most solutions will be in C++, but will add some in Java/Python as well. Intended to be a marker for personal growth as I continue to learn more about algorithms. Not all problems will be from leetcode, some will come from Hackerrank or other similar websites.
 |      LeetCode Links       |      Personal solutions      |
 | -------------  |  -------------   |
 | [#283 Move Zeroes (E)](https://leetcode.com/problems/move-zeroes/)|[Personal Solution(CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%23283%20Move%20Zeroes.cpp)|
@@ -43,3 +43,4 @@ These are my personal attempts at leetcode problems, most solutions will be in C
 | [#5 Longest Palindromic Substring (M)](https://leetcode.com/problems/longest-palindromic-substring/submissions/) |   [Personal Solution (CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%235%20Longest%20Palindromic%20Substring.cpp)   |
 | [#7 Reverse Integer (E)](https://leetcode.com/problems/reverse-integer/) |   [Personal Solution (CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%237%20Reverse%20Integer.cpp)   |
 | [#94 Binary Tree Inorder Traversal (M)](https://leetcode.com/problems/binary-tree-inorder-traversal/) |   [Personal Solution (CPP)](https://github.com/Kevin6525/LeetcodePractice/blob/main/%2394%20Binary%20Tree%20Inorder%20Traversal.cpp)   |
+[HackerRank Hurdle Challenge](https://www.hackerrank.com/challenges/the-hurdle-race/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=7-day-campaign) | [Personal Solution (CPP)] (https://github.com/Kevin6525/LeetcodePractice/blob/main/HackerRankHurdle.cpp)
