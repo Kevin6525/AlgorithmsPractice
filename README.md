@@ -45,6 +45,7 @@ These are my personal attempts at various algorithm problems. Most problems will
 | [#5 Longest Palindromic Substring (M)](https://leetcode.com/problems/longest-palindromic-substring/submissions/) |   [Personal Solution (CPP)](https://github.com/Kevin6525/AlgorithmsPractice/blob/main/LeetCode/%235%20Longest%20Palindromic%20Substring.cpp)   |
 | [#7 Reverse Integer (E)](https://leetcode.com/problems/reverse-integer/) |   [Personal Solution (CPP)](https://github.com/Kevin6525/AlgorithmsPractice/blob/main/LeetCode/%237%20Reverse%20Integer.cpp)   |
 | [#94 Binary Tree Inorder Traversal (M)](https://leetcode.com/problems/binary-tree-inorder-traversal/) |   [Personal Solution (CPP)](https://github.com/Kevin6525/AlgorithmsPractice/blob/main/LeetCode/%2394%20Binary%20Tree%20Inorder%20Traversal.cpp)   |
+| [#1534 Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | [Personal Solution (CPP)](https://github.com/Kevin6525/AlgorithmsPractice/blob/main/LeetCode/%231534%20Count%20Good%20Triplets.cpp) |
 
 ## HackerRank
 |      HackerRank Links       |      Personal solutions      |
